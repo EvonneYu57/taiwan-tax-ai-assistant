@@ -13,6 +13,6 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       },
-      base: '/taiwan-tax-ai-assistant/', // **這是我要你新增的這行**
+      base: '/taiwan-tax-ai-assistant/', // **確認這行是否存在且正確**
     };
 });
