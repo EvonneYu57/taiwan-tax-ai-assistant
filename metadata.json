@@ -1,0 +1,8 @@
+{
+  "name": "Taiwan Tax AI Assistant",
+  "description": "An AI assistant to help with Taiwan tax questions, with accessibility features for visually impaired users.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
